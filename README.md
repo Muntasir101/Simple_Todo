@@ -3,7 +3,7 @@
 Simple todo app built with Flask.
 <br/>
 [Contact](mailto:muntasir.abdullah01@gmail.com)<br/>
-[Muntasir Abdullah](https://www.buymeacoffee.com/muntasir101)
+[Muntasir Abdullah Mizan](https://www.buymeacoffee.com/muntasir101)
 
 |              Desktop               |              Mobile               |
 | :--------------------------------: | :-------------------------------: |
@@ -20,7 +20,7 @@ download source code from Github 💾
 `git clone https://github.com/Muntasir101/Simple_Todo.git`
 
 go to directory 📁
-`cd flaskToDo`
+`cd Simple_Todo`
 
 install requirements.txt 🔽
 `pip install -r requirements.txt`
